@@ -319,10 +319,10 @@ Tanmay Gupta and Aniruddha Kembhavi.  <br>
 
 **Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models** [arXiv 2023]<br>
 Yao Yao, Zuchao Li, and Hai Zhao. 2023.  <br>
-[[Paper]](https://arxiv.org/pdf/2305.16582.pdf) [[Code]]()
+[[Paper]](https://arxiv.org/pdf/2305.16582.pdf) 
 
 **Title** [Conf 2022]<br>
-Name.  <br>
+Jiaxin Shi, Hanwang Zhang, and Juanzi Li.  <br>
 [[Paper]](https://)
 
 **Title** [Conf 2022]<br>
