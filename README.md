@@ -295,13 +295,13 @@ Ronghang Hu, Jacob Andreas, Marcus Rohrbach, Trevor Darrell, and Kate Saenko.  <
 Kexin Yi, Jiajun Wu, Chuang Gan, Antonio Torralba, Pushmeet Kohli, and Josh Tenenbaum.  <br>
 [[Paper]]https://arxiv.org/pdf/1810.02338.pdf) [[Code]](http://nsvqa.csail.mit.edu) 
 
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
+**Explainable neural computation via stack neural module networks** [ECCV 2018]<br>
+Ronghang Hu, Jacob Andreas, Trevor Darrell, and Kate Saenko.  <br>
+[[Paper]](https://arxiv.org/pdf/1807.08556.pdf)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
+**Ns3d: Neuro-symbolic grounding of 3d objects and relations** [CVPR 2023]<br>
+Joy Hsu, Jiayuan Mao, and Jiajun Wu.  <br>
+[[Paper]](https://arxiv.org/pdf/2303.13483.pdf) [[Code]](https://github.com/joyhsu0504/NS3D)
 
 **Title** [Conf 2022]<br>
 Name.  <br>
