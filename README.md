@@ -317,9 +317,9 @@ Tanmay Gupta and Aniruddha Kembhavi.  <br>
 
 ### <span id="head-5"> *2.5 Methods of Multimodal Explanation* </span>
 
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
+**Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models** [arXiv 2023]<br>
+Yao Yao, Zuchao Li, and Hai Zhao. 2023.  <br>
+[[Paper]](https://arxiv.org/pdf/2305.16582.pdf) [[Code]]()
 
 **Title** [Conf 2022]<br>
 Name.  <br>
