@@ -165,6 +165,26 @@ Xi Zhang, Feifei Zhang, and Changsheng Xu.  <br>
 Ana Marasović, Chandra Bhagavatula, Jae sung Park, Ronan Le Bras, Noah A Smith, and Yejin Choi.  <br>
 [[Paper]](https://arxiv.org/pdf/2010.07526.pdf) [[Code]](https://github.com/allenai/visual-reasoning-rationalization)
 
+**Beyond vqa: Generating multi-word answers and rationales to visual questions** [CVPR 2021]<br>
+Radhika Dua, Sai Srinivas Kancheti, and Vineeth N Balasubramanian. <br>
+[[Paper]](https://arxiv.org/pdf/2010.12852.pdf)
+
+**Title** [Pan Lu, Swaroop Mishra, Tanglin Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, and Ashwin Kalyan 2022]<br>
+Pan Lu, Swaroop Mishra, Tanglin Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, and Ashwin Kalyan.  <br>
+[[Paper]](https://arxiv.org/abs/2209.09513)
+
+**Title** [Conf 2022]<br>
+Name.  <br>
+[[Paper]](https://)
+
+**Title** [Conf 2022]<br>
+Name.  <br>
+[[Paper]](https://)
+
+**Title** [Conf 2022]<br>
+Name.  <br>
+[[Paper]](https://)
+
 **Title** [Conf 2022]<br>
 Name.  <br>
 [[Paper]](https://)
