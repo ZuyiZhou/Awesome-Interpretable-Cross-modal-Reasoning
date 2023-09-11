@@ -203,11 +203,11 @@ Linjie Li, Zhe Gan, Yu Cheng, and Jingjing Liu. <br>
 
 **Visual semantic reasoning for image-text matching** [ICCV 2019]<br>
 Kunpeng Li, Yulun Zhang, Kai Li, Yuanyuan Li, and Yun Fu.  <br>
-[[Paper]](https://arxiv.org/pdf/1909.02701.pdf) [[Code]](https://github.com/linjieli222/VQA_ReGAT)
+[[Paper]](https://arxiv.org/pdf/1909.02701.pdf) [[Code]](https://github.com/KunpengLi1994/VSRN)
 
 **Coarse-to-fine reasoning for visual question answering** [CVPR 2023]<br>
 Binh X Nguyen, Tuong Do, Huy Tran, Erman Tjiputra, Quang D Tran, and Anh Nguyen..  <br>
-[[Paper]](https://arxiv.org/pdf/1909.02701.pdf) [[Code]](https://github.com/KunpengLi1994/VSRN)
+[[Paper]](https://arxiv.org/pdf/1909.02701.pdf) [[Code]](https://github.com/aioz-ai/CFR_VQA)
 
 **Title** [Conf 2022]<br>
 Name.  <br>
