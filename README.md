@@ -321,9 +321,9 @@ Tanmay Gupta and Aniruddha Kembhavi.  <br>
 Yao Yao, Zuchao Li, and Hai Zhao. 2023.  <br>
 [[Paper]](https://arxiv.org/pdf/2305.16582.pdf) 
 
-**Title** [Conf 2022]<br>
+**Explainable and explicit visual reasoning over scene graphs** [CVPR 2019]<br>
 Jiaxin Shi, Hanwang Zhang, and Juanzi Li.  <br>
-[[Paper]](https://)
+[[Paper]](https://arxiv.org/pdf/1812.01855.pdf)
 
 **Title** [Conf 2022]<br>
 Name.  <br>
