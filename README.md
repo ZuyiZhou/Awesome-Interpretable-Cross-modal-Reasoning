@@ -265,7 +265,7 @@ NamRiko Suzuki, Hitomi Yanaka, Masashi Yoshikawa, Koji Mineshima, and Daisuke Be
 
 **Exploring Logical Reasoning for Referring Expression Comprehension** [ACM MM 2021]<br>
 Ying Cheng, Ruize Wang, Jiashuo Yu, Rui-Wei Zhao, Yuejie Zhang, and Rui Feng.  <br>
-[[Paper]](https://)
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475677)
 
 **Title** [Conf 2022]<br>
 Name.  <br>
