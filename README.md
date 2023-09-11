@@ -281,7 +281,7 @@ Heather Riley and Mohan Sridharan.  <br>
 
 **VQA-LOL: Visual Question Answering Under the Lens of Logic** [ECCV 2022]<br>
 Tejas Gokhale, Pratyay Banerjee, Chitta Baral, and Yezhou Yang.  <br>
-[[Paper]](https://)
+[[Paper]](https://arxiv.org/pdf/2002.08325.pdf)
 
 **Title** [Conf 2022]<br>
 Name.  <br>
