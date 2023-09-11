@@ -267,12 +267,12 @@ NamRiko Suzuki, Hitomi Yanaka, Masashi Yoshikawa, Koji Mineshima, and Daisuke Be
 Ying Cheng, Ruize Wang, Jiashuo Yu, Rui-Wei Zhao, Yuejie Zhang, and Rui Feng.  <br>
 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475677)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
+**SPACES: Explainable multimodal ai for active surveillance, diagnosis, and management of adverse childhood experiences** [Big Dat 2021]<br>
+Nariman Ammar, Parya Zareie, Marion E Hare, Lisa Rogers, Sandra Madubuonwu, Jason Yaun, and Arash Shaban-Nejad.  <br>
+[[Paper]](https://ieeexplore.ieee.org/document/9671303)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
+**Interpretable Multimodal Misinformation Detection with Logic Reasoning** [arXiv 2023]<br>
+Hui Liu, Wenya Wang, and Haoliang Li.  <br>
 [[Paper]](https://)
 
 **Title** [Conf 2022]<br>
