@@ -115,14 +115,63 @@ Hongyu Chen, Ruifang Liu, and Bo Peng.  <br>
 
 **MMT: Image-guided Story Ending Generation with Multimodal Memory Transformer** [the 30th ACM International Conference on Multimedia]<br>
 Dizhan Xue, Shengsheng Qian, Quan Fang, and Changsheng Xu.  <br>
-[[Paper]](https://dl.acm.org/doi/10.1145/3503161.3548022)
+[[Paper]](https://dl.acm.org/doi/10.1145/3503161.3548022) [[Code]](https://github.com/LivXue/MMT)
 
-**Title.** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
+
 
 ### <span id="head-2"> *2.2 Methods of Textual Explanation* </span>
 
+**More than an answer: Neural pivot network for visual qestion answering** [the 25th ACM international conference on Multimedia 2017]<br>
+Yiyi Zhou, Rongrong Ji, Jinsong Su, YongjianWu, and YunshengWu.  <br>
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3123266.3123335)
+
+**Tell-and-Answer: Towards Explainable Visual Question Answering using Attributes and Captions** [the 2018 Conference on Empirical Methods in Natural Language Processing 2018]<br>
+Qing Li, Jianlong Fu, Dongfei Yu, Tao Mei, and Jiebo Luo.  <br>
+[[Paper]](https://arxiv.org/pdf/1801.09041.pdf)
+
+**Vqa-e: Explaining, elaborating, and enhancing your answers for visual questions** [ECCV 18]<br>
+Qing Li, Qingyi Tao, Shafiq Joty, Jianfei Cai, and Jiebo Luo.  <br>
+[[Paper]](https://arxiv.org/pdf/1803.07464.pdf)
+
+**Visual question answering as reading comprehension** [CVPR 2019]<br>
+Hui Li, Peng Wang, Chunhua Shen, and Anton van den Hengel.  <br>
+[[Paper]](https://arxiv.org/pdf/1811.11903.pdf)
+
+**Relation-Aware Image Captioning for Explainable Visual Question Answering** [TAAI 2022]<br>
+Ching-Shan Tseng, Ying-Jia Lin, and Hung-Yu Kao.  <br>
+[[Paper]](https://ieeexplore.ieee.org/document/10056492)
+
+**From Images to Textual Prompts: Zero-shot Visual Question Answering with Frozen Large Language Models** [CVPR 2023]<br>
+Jiaxian Guo, Junnan Li, Dongxu Li, Anthony Meng Huat Tiong, Boyang Li, Dacheng Tao, and Steven Hoi.  <br>
+[[Paper]](https://arxiv.org/pdf/2212.10846.pdf) [[Code]](https://github.com/salesforce/LAVIS/tree/main/projects/img2llm-vqa)
+
+**Fvqa: Fact-based visual question answering** [IEEE transactions on pattern analysis and machine intelligence 40 2017]<br>
+PengWang, QiWu, Chunhua Shen, Anthony Dick, and Anton Van Den Hengel.  <br>
+[[Paper]](https://arxiv.org/pdf/1606.05433.pdf)
+
+**Straight to the facts: Learning knowledge base retrieval for factual visual question answering.** [ECCV 2018]<br>
+Medhini Narasimhan and Alexander G Schwing.  <br>
+[[Paper]](https://arxiv.org/pdf/1809.01124.pdf)
+
+**Multi-level knowledge injecting for visual commonsense reasoning** [IEEE Transactions on Circuits and Systems for Video Technology 2020]<br>
+Zhang Wen and Yuxin Peng. 2020.  <br>
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9083951)
+
+**Explicit cross-modal representation learning for visual commonsense reasoning** [IEEE Transactions on Multimedia 2012]<br>
+Xi Zhang, Feifei Zhang, and Changsheng Xu.  <br>
+[[Paper]](https://ieeexplore.ieee.org/document/9465732)
+
+**Title** [Association for Computational Linguistics: EMNLP 2020]<br>
+Ana Marasović, Chandra Bhagavatula, Jae sung Park, Ronan Le Bras, Noah A Smith, and Yejin Choi.  <br>
+[[Paper]](https://arxiv.org/pdf/2010.07526.pdf) [[Code]](https://github.com/allenai/visual-reasoning-rationalization)
+
+**Title** [Conf 2022]<br>
+Name.  <br>
+[[Paper]](https://)
+
+**Title** [Conf 2022]<br>
+Name.  <br>
+[[Paper]](https://)
 
 ### <span id="head-3"> *2.3 Methods of Graph Explanation* </span>
 
