@@ -291,7 +291,7 @@ Jacob Andreas, Marcus Rohrbach, Trevor Darrell, and Dan Klein.  <br>
 Ronghang Hu, Jacob Andreas, Marcus Rohrbach, Trevor Darrell, and Kate Saenko.  <br>
 [[Paper]](https://arxiv.org/pdf/1704.05526.pdf)
 
-**Title** [NeurIPS 2018]<br>
+**Neural-symbolic vqa: Disentangling reasoning from vision and language understanding** [NeurIPS 2018]<br>
 Kexin Yi, Jiajun Wu, Chuang Gan, Antonio Torralba, Pushmeet Kohli, and Josh Tenenbaum.  <br>
 [[Paper]]https://arxiv.org/pdf/1810.02338.pdf) [[Code]](http://nsvqa.csail.mit.edu) 
 
