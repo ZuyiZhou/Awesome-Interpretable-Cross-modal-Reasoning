@@ -303,12 +303,12 @@ Ronghang Hu, Jacob Andreas, Trevor Darrell, and Kate Saenko.  <br>
 Joy Hsu, Jiayuan Mao, and Jiajun Wu.  <br>
 [[Paper]](https://arxiv.org/pdf/2303.13483.pdf) [[Code]](https://github.com/joyhsu0504/NS3D)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
+**Meta module network for compositional visual reasoning** [WACV 2021]<br>
+Wenhu Chen, Zhe Gan, Linjie Li, Yu Cheng, William Wang, and Jingjing Liu.  <br>
+[[Paper]](https://arxiv.org/pdf/1910.03230.pdf) [[Code]](https://github.com/wenhuchen/Meta-Module-Network)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
+**Title** [NeurIPS 2021]<br>
+Zelin Zhao, Karan Samel, Binghong Chen, et al.  <br>
 [[Paper]](https://)
 
 **Title** [Conf 2022]<br>
