@@ -257,14 +257,14 @@ Yang Ding, Jing Yu, Bang Liu, Yue Hu, Mingxin Cui, and Qi Wu.  <br>
 
 **Explicit reasoning over end-to-end neural architectures for visual question answering** [AAAI 2018]<br>
 Somak Aditya, Yezhou Yang, and Chitta Baral.  <br>
-[[Paper]](https://)
+[[Paper]](https://arxiv.org/pdf/1803.08896.pdf)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
+**Multimodal Logical Inference System for Visual-Textual Entailment** [ACL SRW 2019]<br>
+NamRiko Suzuki, Hitomi Yanaka, Masashi Yoshikawa, Koji Mineshima, and Daisuke Bekki.  <br>
+[[Paper]](https://arxiv.org/pdf/1906.03952.pdf)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
+**Exploring Logical Reasoning for Referring Expression Comprehension** [ACM MM 2021]<br>
+Ying Cheng, Ruize Wang, Jiashuo Yu, Rui-Wei Zhao, Yuejie Zhang, and Rui Feng.  <br>
 [[Paper]](https://)
 
 **Title** [Conf 2022]<br>
