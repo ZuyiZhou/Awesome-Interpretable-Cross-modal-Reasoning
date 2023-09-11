@@ -1,4 +1,4 @@
-# <p align=center>Interpretable Cross-modal Reasoning
+# <p align=center>A Survey on Interpretable Cross-modal Reasoning
 
 
 > [**A Survey on Interpretable Cross-modal Reasoning**](https://arxiv.org/abs/2309.01955)<br>
