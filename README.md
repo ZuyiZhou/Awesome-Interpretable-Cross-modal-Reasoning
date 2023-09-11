@@ -175,12 +175,12 @@ Ana Marasović, Chandra Bhagavatula, Jae sung Park, Ronan Le Bras, Noah A Smith,
 Radhika Dua, Sai Srinivas Kancheti, and Vineeth N Balasubramanian. <br>
 [[Paper]](https://arxiv.org/pdf/2010.12852.pdf)
 
-**Title** [Pan Lu, Swaroop Mishra, Tanglin Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, and Ashwin Kalyan 2022]<br>
+**Learn to explain: Multimodal reasoning via thought chains for science question answering** [Pan Lu, Swaroop Mishra, Tanglin Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, and Ashwin Kalyan 2022]<br>
 Pan Lu, Swaroop Mishra, Tanglin Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, and Ashwin Kalyan.  <br>
-[[Paper]](https://arxiv.org/abs/2209.09513)
+[[Paper]](https://arxiv.org/pdf/2209.09513.pdf) [[Code]](https://scienceqa.github.io/)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
+**Title** [arXiv 2023]<br>
+Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, and Alex Smola.  <br>
 [[Paper]](https://)
 
 **Title** [Conf 2022]<br>
