@@ -115,7 +115,7 @@ Hongyu Chen, Ruifang Liu, and Bo Peng.  <br>
 
 **MMT: Image-guided Story Ending Generation with Multimodal Memory Transformer** [the 30th ACM International Conference on Multimedia]<br>
 Dizhan Xue, Shengsheng Qian, Quan Fang, and Changsheng Xu.  <br>
-[[Paper]](https://)
+[[Paper]](https://dl.acm.org/doi/10.1145/3503161.3548022)
 
 **Title.** [Conf 2022]<br>
 Name.  <br>
