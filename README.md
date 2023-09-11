@@ -323,7 +323,7 @@ Yao Yao, Zuchao Li, and Hai Zhao. 2023.  <br>
 
 **Explainable and explicit visual reasoning over scene graphs** [CVPR 2019]<br>
 Jiaxin Shi, Hanwang Zhang, and Juanzi Li.  <br>
-[[Paper]](https://arxiv.org/pdf/1812.01855.pdf)
+[[Paper]](https://arxiv.org/pdf/1812.01855.pdf) [[Code]](https://github.com/shijx12/XNM-Net)
 
 **Title** [Conf 2022]<br>
 Name.  <br>
