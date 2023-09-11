@@ -273,7 +273,7 @@ Nariman Ammar, Parya Zareie, Marion E Hare, Lisa Rogers, Sandra Madubuonwu, Jaso
 
 **Interpretable Multimodal Misinformation Detection with Logic Reasoning** [arXiv 2023]<br>
 Hui Liu, Wenya Wang, and Haoliang Li.  <br>
-[[Paper]](https://)
+[[Paper]](https://arxiv.org/pdf/2305.05964.pdf) [[Code]](https://github.com/hril230/masters_code) 
 
 **Title** [Conf 2022]<br>
 Name.  <br>
