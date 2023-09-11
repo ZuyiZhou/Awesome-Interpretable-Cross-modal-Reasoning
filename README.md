@@ -207,7 +207,51 @@ Kunpeng Li, Yulun Zhang, Kai Li, Yuanyuan Li, and Yun Fu.  <br>
 
 **Coarse-to-fine reasoning for visual question answering** [CVPR 2023]<br>
 Binh X Nguyen, Tuong Do, Huy Tran, Erman Tjiputra, Quang D Tran, and Anh Nguyen..  <br>
-[[Paper]](https://arxiv.org/pdf/1909.02701.pdf) [[Code]](https://github.com/aioz-ai/CFR_VQA)
+[[Paper]](https://arxiv.org/pdf/2110.02526.pdf) [[Code]](https://github.com/aioz-ai/CFR_VQA)
+
+**Explainable high-order visual question reasoning: A new benchmark and knowledgerouted network** [arXiv 2019]<br>
+Qingxing Cao, Bailin Li, Xiaodan Liang, and Liang Lin.  <br>
+[[Paper]](https://arxiv.org/pdf/1909.10128.pdf)
+
+**Query and attention augmentation for knowledge-based explainable reasoning** [CVPR 2022]<br>
+Yifeng Zhang, Ming Jiang, and Qi Zhao.  <br>
+[[Paper]](https://ieeexplore.ieee.org/document/9879458) [[Code]](https://github.com/SuperJohnZhang/QAA)
+
+**Vqa with no questions-answers training** [CVPR 2020]<br>
+Ben-Zion Vatashsky and Shimon Ullman.  <br>
+[[Paper]](https://arxiv.org/abs/1811.08481.pdf) [[Code]](https://github.com/benyv/uncord)
+
+**Linguistically driven graph capsule network for visual question reasoning** [arXiv 2020]<br>
+Qingxing Cao, Xiaodan Liang, Keze Wang, and Liang Lin.  <br>
+[[Paper]](https://arxiv.org/pdf/2003.10065.pdf) [[Code]]
+
+**Learning cross-modal context graph for visual grounding** [AAAI 202o]<br>
+Yongfei Liu, Bo Wan, Xiaodan Zhu, and Xuming He.  <br>
+[[Paper]](https://arxiv.org/pdf/1911.09042.pdf)  [[Code]](https://github.com/youngfly11/LCMCG-PyTorch)
+
+**Hierarchical Cross-Modal Graph Consistency Learning for Video-Text Retrieval** [SIGIR 2021]<br>
+Weike Jin, Zhou Zhao, Pengcheng Zhang, Jieming Zhu, Xiuqiang He, and Yueting Zhuang.  <br>
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3404835.3462974)
+
+**Cross-modal graph matching network for image-text retrieval** [TOMM 2022]<br>
+Yuhao Cheng, Xiaoguang Zhu, Jiuchao Qian, Fei Wen, and Peilin Liu.  <br>
+[[Paper]](https://dl.acm.org/doi/10.1145/3499027) [[Code]](https://github.com/cyh-sj/CGMN)
+
+**KBGN: Knowledge-bridge graph network for adaptive vision-text reasoning in visual dialogue** [ACM MM 2020]<br>
+Xiaoze Jiang, Siyi Du, Zengchang Qin, Yajing Sun, and Jing Yu.  <br>
+[[Paper]](https://arxiv.org/pdf/2008.04858.pdf)
+
+**Mucko: multi-layer cross-modal knowledge reasoning for fact-based visual question answering** [IJCAI 2021]<br>
+Zihao Zhu, Jing Yu, Yujing Wang, Yajing Sun, Yue Hu, and Qi Wu.  <br>
+[[Paper]](https://arxiv.org/pdf/2006.09073.pdf)
+
+**Cross-modal representation learning and relation reasoning for bidirectional adaptive manipulation** [IJCAI 2022]<br>
+Lei Li, Kai Fan, and Chun Yuan.  <br>
+[[Paper]](https://arxiv.org/pdf/2006.09073.pdf)
+
+**Mukea: Multimodal knowledge extraction and accumulation for knowledgebased visual question answering** [CVPR 2022]<br>
+Yang Ding, Jing Yu, Bang Liu, Yue Hu, Mingxin Cui, and Qi Wu.  <br>
+[[Paper]]https://arxiv.org/pdf/2203.09138.pdf) [[Code]](https://github.com/AndersonStra/MuKEA) 
 
 **Title** [Conf 2022]<br>
 Name.  <br>
@@ -224,34 +268,11 @@ Name.  <br>
 **Title** [Conf 2022]<br>
 Name.  <br>
 [[Paper]](https://)
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
 
 **Title** [Conf 2022]<br>
 Name.  <br>
 [[Paper]](https://)
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
-
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
-
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
 ### <span id="head-4"> *2.4 Methods of Symbol Explanation* </span>
 
 
