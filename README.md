@@ -273,14 +273,14 @@ Nariman Ammar, Parya Zareie, Marion E Hare, Lisa Rogers, Sandra Madubuonwu, Jaso
 
 **Interpretable Multimodal Misinformation Detection with Logic Reasoning** [arXiv 2023]<br>
 Hui Liu, Wenya Wang, and Haoliang Li.  <br>
-[[Paper]](https://arxiv.org/pdf/2305.05964.pdf) [[Code]](https://github.com/hril230/masters_code) 
+[[Paper]](https://arxiv.org/pdf/2305.05964.pdf) [[Code]](https://github.com/less-and-less-bugs/LogicMD)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
+**Integrating non-monotonic logical reasoning and inductive learning with deep learning for explainable visual question answering.** [FRAI 6 2019]<br>
+Heather Riley and Mohan Sridharan.  <br>
+[[Paper]](https://www.frontiersin.org/articles/10.3389/frobt.2019.00125/full) [[Code]](https://github.com/hril230/masters_code) 
 
-**Title** [Conf 2022]<br>
-Name.  <br>
+**VQA-LOL: Visual Question Answering Under the Lens of Logic** [ECCV 2022]<br>
+Tejas Gokhale, Pratyay Banerjee, Chitta Baral, and Yezhou Yang.  <br>
 [[Paper]](https://)
 
 **Title** [Conf 2022]<br>
