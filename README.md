@@ -255,8 +255,8 @@ Yang Ding, Jing Yu, Bang Liu, Yue Hu, Mingxin Cui, and Qi Wu.  <br>
 
 ### <span id="head-4"> *2.4 Methods of Symbol Explanation* </span>
 
-**Title** [Conf 2022]<br>
-Name.  <br>
+**Explicit reasoning over end-to-end neural architectures for visual question answering** [AAAI 2018]<br>
+Somak Aditya, Yezhou Yang, and Chitta Baral.  <br>
 [[Paper]](https://)
 
 **Title** [Conf 2022]<br>
