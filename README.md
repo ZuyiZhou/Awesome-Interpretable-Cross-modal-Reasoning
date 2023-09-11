@@ -283,13 +283,13 @@ Heather Riley and Mohan Sridharan.  <br>
 Tejas Gokhale, Pratyay Banerjee, Chitta Baral, and Yezhou Yang.  <br>
 [[Paper]](https://arxiv.org/pdf/2002.08325.pdf)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
+**Neural Module Networks** [CVPR 2016]<br>
+Jacob Andreas, Marcus Rohrbach, Trevor Darrell, and Dan Klein.  <br>
+[[Paper]](https://arxiv.org/pdf/1511.02799.pdf)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
+**Learning to reason: End-to-end module networks for visual question answering** [ICCV 2017]<br>
+Ronghang Hu, Jacob Andreas, Marcus Rohrbach, Trevor Darrell, and Kate Saenko.  <br>
+[[Paper]](https://arxiv.org/pdf/1704.05526.pdf)
 
 **Title** [Conf 2022]<br>
 Name.  <br>
