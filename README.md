@@ -135,10 +135,10 @@ Yiyi Zhou, Rongrong Ji, Jinsong Su, YongjianWu, and YunshengWu.  <br>
 Qing Li, Jianlong Fu, Dongfei Yu, Tao Mei, and Jiebo Luo.  <br>
 [[Paper]](https://arxiv.org/pdf/1801.09041.pdf)
 
+
 **Vqa-e: Explaining, elaborating, and enhancing your answers for visual questions** [ECCV 18]<br>
 Qing Li, Qingyi Tao, Shafiq Joty, Jianfei Cai, and Jiebo Luo.  <br>
 [[Paper]](https://arxiv.org/pdf/1803.07464.pdf)
-
 **Visual question answering as reading comprehension** [CVPR 2019]<br>
 Hui Li, Peng Wang, Chunhua Shen, and Anton van den Hengel.  <br>
 [[Paper]](https://arxiv.org/pdf/1811.11903.pdf)
@@ -344,32 +344,48 @@ Shi Chen and Qi Zhao.  <br>Visual genome: Connecting language and vision using c
 
 ## <span id="headtax"> *3. Datasets* </span>
 
+<!--Visual Genome  -->
+**Visual genome: Connecting language and vision using crowdsourced dense image annotations** [IJCV 2017]<br>
+Ranjay Krishna, Yuke Zhu, Oliver Groth, Justin Johnson, Kenji Hata, Joshua Kravitz, Stephanie Chen, Yannis Kalantidis, Li-Jia Li, David A Shamma, et al.  <br>
+[[Paper]](https://arxiv.org/pdf/1602.07332.pdf)
 
-**Title** [Conf 2022]<br>
-Ranjay Krishna, Yuke Zhu, Oliver Groth, Justin Johnson, Kenji Hata, Joshua Kravitz, Stephanie Chen, Yannis Kalantidis, Li-Jia Li, David A Shamma,
-et al.  <br>
-[[Paper]](https://)
+<!--GQA  -->
+**Gqa: A new dataset for real-world visual reasoning and compositional question answering** [CVPR 2019]<br>
+Drew A Hudson and Christopher D Manning.  <br>
+[[Paper]](https://arxiv.org/pdf/1902.09506.pdf)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
+<!--GQA-REX  -->
+**Rex: Reasoning-aware and grounded explanation** [CVPR 2022]<br>
+Shi Chen and Qi Zhao.  <br>Visual genome: Connecting language and vision using crowdsourced dense image annotations
+[[Paper]](https://arxiv.org/pdf/2203.06107v1.pdf) [[dataset]](https://github.com/szzexpoi/rex)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
+<!--FVQA  -->
+**Fvqa: Fact-based visual question answering** [T-PAMI 2017]<br>
+PengWang, QiWu, Chunhua Shen, Anthony Dick, and Anton Van Den Hengel.  <br>
+[[Paper]](https://arxiv.org/pdf/1606.05433.pdf)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
+<!--VQA-e  -->
+**Vqa-e: Explaining, elaborating, and enhancing your answers for visual questions** [ECCV 18]<br>
+Qing Li, Qingyi Tao, Shafiq Joty, Jianfei Cai, and Jiebo Luo.  <br>
+[[Paper]](https://arxiv.org/pdf/1803.07464.pdf)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
+<!--OK-VQA +VCR -->
+**From recognition to cognition: Visual commonsense reasoning** [CVPR 2019]<br>
+Rowan Zellers, Yonatan Bisk, Ali Farhadi, and Yejin Choi.  <br>
+[[Paper]](https://arxiv.org/pdf/1811.10830.pdf) [[dataset]](https://visualcommonsense.com/)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
+<!-- kvqa -->
+**Kvqa: Knowledge-aware visual question answering** [AAAI 2019]<br>
+Sanket Shah, Anand Mishra, Naganand Yadati, and Partha Pratim Talukdar.  <br>
+[[Paper]](https://dl.acm.org/doi/10.1609/aaai.v33i01.33018876) [[dataset]](http://malllabiisc.github.io/resources/kvqa)
+
+<!-- 2D-M -->
+**Program guided agent** [ICLR 2019]<br>
+Shao-Hua Sun, Te-Lin Wu, and Joseph J Lim.  <br>
+[[Paper]](https://openreview.net/pdf?id=BkxUvnEYDH)
+
+<!-- kvqa -->
+**Program guided agent** [ICLR 2019]<br>
+Shao-Hua Sun, Te-Lin Wu, and Joseph J Lim.  <br>
+[[Paper]](https://openreview.net/pdf?id=BkxUvnEYDH)
