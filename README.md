@@ -51,7 +51,7 @@ If you find this paper and repo helpful for your research, please cite it as bel
 * Papers, codes, and datasets for the text-to-image task are available here.
 
 
-## <span id="headtax"> *2. Methods for interpretable cross-modal reasoning* </span> [       «🎯Back To Top»       ](#)
+## <span id="headtax"> *2. Methods for interpretable cross-modal reasoning* </span>
 
 ### <span id="head-1"> *2.1 Methods of Visual Explanation* </span>
 
@@ -293,7 +293,7 @@ Ronghang Hu, Jacob Andreas, Marcus Rohrbach, Trevor Darrell, and Kate Saenko.  <
 
 **Neural-symbolic vqa: Disentangling reasoning from vision and language understanding** [NeurIPS 2018]<br>
 Kexin Yi, Jiajun Wu, Chuang Gan, Antonio Torralba, Pushmeet Kohli, and Josh Tenenbaum.  <br>
-[[Paper]]https://arxiv.org/pdf/1810.02338.pdf) [[Code]](http://nsvqa.csail.mit.edu) 
+[[Paper]](https://arxiv.org/pdf/1810.02338.pdf) [[Code]](http://nsvqa.csail.mit.edu) 
 
 **Explainable neural computation via stack neural module networks** [ECCV 2018]<br>
 Ronghang Hu, Jacob Andreas, Trevor Darrell, and Kate Saenko.  <br>
@@ -325,9 +325,25 @@ Yao Yao, Zuchao Li, and Hai Zhao. 2023.  <br>
 Jiaxin Shi, Hanwang Zhang, and Juanzi Li.  <br>
 [[Paper]](https://arxiv.org/pdf/1812.01855.pdf) [[Code]](https://github.com/shijx12/XNM-Net)
 
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
+**Multimodal explanations: Justifying decisions and pointing to the evidence** [CVPR 2018]<br>
+Dong Huk Park, Lisa Anne Hendricks, Zeynep Akata, Anna Rohrbach, Bernt Schiele, Trevor Darrell, and Marcus Rohrbach.  <br>
+[[Paper]](https://ieeexplore.ieee.org/document/8579013)
+
+**From recognition to cognition: Visual commonsense reasoning** [CVPR 2019]<br>
+Rowan Zellers, Yonatan Bisk, Ali Farhadi, and Yejin Choi.  <br>
+[[Paper]](https://arxiv.org/pdf/1811.10830.pdf) [[Code]](https://visualcommonsense.com/)
+
+
+**Faithful Multimodal Explanation for Visual Question Answering** [arXiv 2019]<br>
+Jialin Wu and Raymond J. Mooney.  <br>
+[[Paper]](https://arxiv.org/pdf/1809.02805.pdf)
+
+**Rex: Reasoning-aware and grounded explanation** [CVPR 2022]<br>
+Shi Chen and Qi Zhao.  <br>
+[[Paper]](https://arxiv.org/pdf/2203.06107v1.pdf) [[Code]](https://github.com/szzexpoi/rex)
+
+## <span id="headtax"> *3. Datasets* </span>
+
 
 **Title** [Conf 2022]<br>
 Name.  <br>
@@ -356,20 +372,3 @@ Name.  <br>
 **Title** [Conf 2022]<br>
 Name.  <br>
 [[Paper]](https://)
-
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
-
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
-
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
-
-**Title** [Conf 2022]<br>
-Name.  <br>
-[[Paper]](https://)
-## <span id="headtax"> *3. Datasets* </span> [       «🎯Back To Top»       ](#)
