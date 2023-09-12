@@ -385,7 +385,27 @@ Sanket Shah, Anand Mishra, Naganand Yadati, and Partha Pratim Talukdar.  <br>
 Shao-Hua Sun, Te-Lin Wu, and Joseph J Lim.  <br>
 [[Paper]](https://openreview.net/pdf?id=BkxUvnEYDH)
 
-<!-- kvqa -->
-**Program guided agent** [ICLR 2019]<br>
-Shao-Hua Sun, Te-Lin Wu, and Joseph J Lim.  <br>
-[[Paper]](https://openreview.net/pdf?id=BkxUvnEYDH)
+<!-- Mocheg -->
+**End-to-end multimodal fact-checking and explanation generation: A challenging dataset and models** [SIGIR 2023]<br>
+Barry Menglong Yao, Aditya Shah, Lichao Sun, Jin-Hee Cho, and Lifu Huang.  <br>
+[[Paper]](https://arxiv.org/pdf/2205.12487.pdf) [[dataset]](https://github.com/VT-NLP/Mocheg)
+
+<!-- ACT-X -->
+**Multimodal explanations: Justifying decisions and pointing to the evidence** [CVPR 2018]<br>
+Dong Huk Park, Lisa Anne Hendricks, Zeynep Akata, Anna Rohrbach, Bernt Schiele, Trevor Darrell, and Marcus Rohrbach.  <br>
+[[Paper]](https://ieeexplore.ieee.org/document/8579013)
+
+<!-- ScienceQA -->
+**Learn to explain: Multimodal reasoning via thought chains for science question answering** [Pan Lu, Swaroop Mishra, Tanglin Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, and Ashwin Kalyan 2022]<br>
+Pan Lu, Swaroop Mishra, Tanglin Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, and Ashwin Kalyan.  <br>
+[[Paper]](https://arxiv.org/pdf/2209.09513.pdf) [[dataset]](https://scienceqa.github.io/)
+
+<!-- HatReD -->
+**Decoding the Underlying Meaning of Multimodal Hateful Memes** [arXiv 2023]<br>
+Ming Shan Hee, Wen-Haw Chong, and Roy Ka-Wei Lee.  <br>
+[[Paper]](https://arxiv.org/pdf/2305.17678.pdf) [[dataset]](https://github.com/Social-AI-Studio/HatRed)
+
+<!-- WAX -->
+**WAX: A New Dataset for Word Association eXplanations** [ACL-IJCNLP 2023]<br>
+Chunhua Liu, Trevor Cohn, Simon De Deyne, and Lea Frermann.  <br>
+[[Paper]](https://aclanthology.org/2022.aacl-main.9.pdf) [[dataset]](https://github.com/ChunhuaLiu596/WAX)
