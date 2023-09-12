@@ -339,14 +339,15 @@ Jialin Wu and Raymond J. Mooney.  <br>
 [[Paper]](https://arxiv.org/pdf/1809.02805.pdf)
 
 **Rex: Reasoning-aware and grounded explanation** [CVPR 2022]<br>
-Shi Chen and Qi Zhao.  <br>
+Shi Chen and Qi Zhao.  <br>Visual genome: Connecting language and vision using crowdsourced dense image annotations
 [[Paper]](https://arxiv.org/pdf/2203.06107v1.pdf) [[Code]](https://github.com/szzexpoi/rex)
 
 ## <span id="headtax"> *3. Datasets* </span>
 
 
 **Title** [Conf 2022]<br>
-Name.  <br>
+Ranjay Krishna, Yuke Zhu, Oliver Groth, Justin Johnson, Kenji Hata, Joshua Kravitz, Stephanie Chen, Yannis Kalantidis, Li-Jia Li, David A Shamma,
+et al.  <br>
 [[Paper]](https://)
 
 **Title** [Conf 2022]<br>
