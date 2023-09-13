@@ -13,7 +13,7 @@
 
 ##  Citation
 
-If you find this paper and repo helpful for your research, please cite it as below:
+If you find our paper or this repo helpful for your research, please cite it as below. Thanks!
 
 ```bibtex
 @misc{xue2023survey,
