@@ -36,12 +36,10 @@ If you find our paper or this repo helpful for your research, please cite it as 
   
   
 * - [x] [3. Datasets](#headda)  
-  * - [x] [Oxford-102 Flower](#head-flower)
-  * - [x] [Caltech-UCSD Bird (CUB)](#head-cub)
-  * - [x] [MS-COCO](#head-coco)
 
 
 * [*Contact Us*](#head7)
+
 ## <span id="headIntro"> *1. Taxonomy* </span>
 
 * In this survey, we present a three-level taxonomy for inter-pretable cross-modal reasoning methods, as follows:
@@ -53,19 +51,19 @@ If you find our paper or this repo helpful for your research, please cite it as 
 
 ### <span id="head-1"> *2.1 Methods of Visual Explanation* </span>
 
-**Murel: Multimodal relational reasoning for visual question answering** [CVPR 2019] <br>
+**MUREL: Multimodal Relational Reasoning for Visual Question Answering** [CVPR 2019] <br>
 Remi Cadene, Hedi Ben-Younes, Matthieu Cord, and Nicolas Thome.  <br>
 [[Paper]](https://ieeexplore.ieee.org/document/8953864)[[Code]](https://github.com/Cadene/murel.bootstrap.pytorch)
 
-**Reasoning on the relation: Enhancing visual representation for visual question answering and cross-modal retrieval** [TMM 2022]<br>
+**Reasoning on the Relation: Enhancing Visual Representation for Visual Question Answering and Cross-Modal Retrieval** [TMM 2022]<br>
 Jing Yu, Weifeng Zhang, Yuhang Lu, Zengchang Qin, Yue Hu, Jianlong Tan, and Qi Wu.  <br>
 [[Paper]](https://ieeexplore.ieee.org/document/8988148) [[Code]](http://github.com/rosinality/relation-networks-pytorch)
 
-**Grounding answers for visual questions asked by visually impaired people** [CVPR 2022]<br>
+**Grounding Answers for Visual Questions Asked by Visually Impaired People** [CVPR 2022]<br>
 Chongyan Chen, Samreen Anjum, and Danna Gurari.  <br>
 [[Paper]](https://arxiv.org/pdf/2202.01993.pdf) [[Code]](https://vizwiz.org/tasks-and-datasets/answergrounding-for-vqa)
 
-**Film: Visual reasoning with a general conditioning layer** [AAAI 2018]<br>
+**FiLM: Visual Reasoning with a General Conditioning Layer** [AAAI 2018]<br>
 Ethan Perez, Florian Strub, Harm De Vries, Vincent Dumoulin, and Aaron Courville.  <br>
 [[Paper]](https://arxiv.org/pdf/1709.07871.pdf) [[Code]](https://github.com/ethanjperez/film)
 
@@ -73,7 +71,7 @@ Ethan Perez, Florian Strub, Harm De Vries, Vincent Dumoulin, and Aaron Courville
 Fengyin Lin, Mingkang Li, Da Li, Timothy Hospedales, Yi-Zhe Song, and Yonggang Qi.  <br>
 [[Paper]](https://arxiv.org/pdf/2303.14348.pdf) [[Code]](https://github.com/buptLinfy/ZSE-SBIR)
 
-**Multi-modal sarcasm detection with interactive in-modal and cross-modal graphs** [ACM MM 2021]<br>
+**Multi-Modal Sarcasm Detection with Interactive In-Modal and Cross-Modal Graphs** [ACM MM 2021]<br>
 Bin Liang, Chenwei Lou, Xiang Li, Lin Gui, Min Yang, and Ruifeng Xu.  <br>
 [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475190)
 
@@ -89,11 +87,11 @@ Yiwei Lyu, Paul Pu Liang, Zihao Deng, Ruslan Salakhutdinov, and Louis-Philippe M
 Paul Pu Liang, Yiwei Lyu, Gunjan Chhablani, Nihal Jain, Zihao Deng, Xingbo Wang, Louis-Philippe Morency, and Ruslan Salakhutdinov.  <br>
 [[Paper]](https://arxiv.org/pdf/2207.00056.pdf) [[Code]](https://github.com/pliang279/MultiViz)
 
-**X-pool: Cross-modal language-video attention for text-video retrieval** [CVPR 2022]<br>
+**X-Pool: Cross-Modal Language-Video Attention For Text-Video Retrieval** [CVPR 2022]<br>
 Satya Krishna Gorti, Noël Vouitsis, Junwei Ma, Keyvan Golestan, Maksims Volkovs, Animesh Garg, and Guangwei Yu.  <br>
 [[Paper]](https://arxiv.org/pdf/2203.15086.pdf) [[Code]](https://layer6ai-labs.github.io/xpool/)
 
-**Video-text as game players: Hierarchical banzhaf interaction for cross-modal representation learning** [CVPR 2023]<br>
+**Video-Text as Game Players: Hierarchical Banzhaf Interaction for Cross-Modal Representation Learning** [CVPR 2023]<br>
 Peng Jin, Jinfa Huang, Pengfei Xiong, Shangxuan Tian, Chang Liu, Xiangyang Ji, Li Yuan, and Jie Chen.  <br>
 [[Paper]](https://arxiv.org/pdf/2303.14369.pdf) [[Code]](https://jpthu17.github.io/HBI/)
 
@@ -341,7 +339,7 @@ Jialin Wu and Raymond J. Mooney.  <br>
 Shi Chen and Qi Zhao.  <br>
 [[Paper]](https://arxiv.org/pdf/2203.06107v1.pdf) [[Code]](https://github.com/szzexpoi/rex)
 
-## <span id="headtax"> *3. Datasets* </span>
+## <span id="headda"> *3. Datasets* </span>
 
 <!--Visual Genome  -->
 **Visual genome: Connecting language and vision using crowdsourced dense image annotations** [IJCV 2017]<br>
@@ -408,3 +406,20 @@ Ming Shan Hee, Wen-Haw Chong, and Roy Ka-Wei Lee.  <br>
 **WAX: A New Dataset for Word Association eXplanations** [ACL-IJCNLP 2023]<br>
 Chunhua Liu, Trevor Cohn, Simon De Deyne, and Lea Frermann.  <br>
 [[Paper]](https://aclanthology.org/2022.aacl-main.9.pdf) [[dataset]](https://github.com/ChunhuaLiu596/WAX)
+
+
+## <span id="head7"> *Contact Us* </span>
+
+Please contact us by e-mail:
+
+```bash
+xuedizhan17@mails.ucas.ac.cn
+```
+
+```bash
+shengsheng.qian@nlpr.ia.ac.cn
+```
+
+```bash
+zhouzuyi2023@ia.ac.cn
+```
