@@ -27,7 +27,7 @@ If you find our paper or this repo helpful for your research, please cite it as 
 ## <span id="head-content"> *Content* </span>
 * - [x] [1. Taxonomy](#headIntro)
 
-* - [ ] [2. Methods for interpretable cross-modal reasoning](#headtax)
+* - [x] [2. Methods for interpretable cross-modal reasoning](#headtax)
   * - [x] [2.1 Methods of Visual Explanation](#head-1)
   * - [x] [2.2 Methods of Textual Explanation](#head-2)  
   * - [x] [2.3 Methods of Graph Explanation](#head-3)
@@ -35,7 +35,7 @@ If you find our paper or this repo helpful for your research, please cite it as 
   * - [x] [2.5 Methods of Multimodal Explanation](#head-5)
   
   
-* - [ ] [3. Datasets](#headda)  
+* - [x] [3. Datasets](#headda)  
   * - [x] [Oxford-102 Flower](#head-flower)
   * - [x] [Caltech-UCSD Bird (CUB)](#head-cub)
   * - [x] [MS-COCO](#head-coco)
@@ -137,6 +137,7 @@ Qing Li, Jianlong Fu, Dongfei Yu, Tao Mei, and Jiebo Luo.  <br>
 **Vqa-e: Explaining, elaborating, and enhancing your answers for visual questions** [ECCV 18]<br>
 Qing Li, Qingyi Tao, Shafiq Joty, Jianfei Cai, and Jiebo Luo.  <br>
 [[Paper]](https://arxiv.org/pdf/1803.07464.pdf)
+
 **Visual question answering as reading comprehension** [CVPR 2019]<br>
 Hui Li, Peng Wang, Chunhua Shen, and Anton van den Hengel.  <br>
 [[Paper]](https://arxiv.org/pdf/1811.11903.pdf)
@@ -173,7 +174,7 @@ Ana Marasović, Chandra Bhagavatula, Jae sung Park, Ronan Le Bras, Noah A Smith,
 Radhika Dua, Sai Srinivas Kancheti, and Vineeth N Balasubramanian. <br>
 [[Paper]](https://arxiv.org/pdf/2010.12852.pdf)
 
-**Learn to explain: Multimodal reasoning via thought chains for science question answering** [Pan Lu, Swaroop Mishra, Tanglin Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, and Ashwin Kalyan 2022]<br>
+**Learn to explain: Multimodal reasoning via thought chains for science question answering** [NeurIPS 2022]<br>
 Pan Lu, Swaroop Mishra, Tanglin Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, and Ashwin Kalyan.  <br>
 [[Paper]](https://arxiv.org/pdf/2209.09513.pdf) [[Code]](https://scienceqa.github.io/)
 
@@ -337,7 +338,7 @@ Jialin Wu and Raymond J. Mooney.  <br>
 [[Paper]](https://arxiv.org/pdf/1809.02805.pdf)
 
 **Rex: Reasoning-aware and grounded explanation** [CVPR 2022]<br>
-Shi Chen and Qi Zhao.  <br>Visual genome: Connecting language and vision using crowdsourced dense image annotations
+Shi Chen and Qi Zhao.  <br>
 [[Paper]](https://arxiv.org/pdf/2203.06107v1.pdf) [[Code]](https://github.com/szzexpoi/rex)
 
 ## <span id="headtax"> *3. Datasets* </span>
@@ -354,7 +355,7 @@ Drew A Hudson and Christopher D Manning.  <br>
 
 <!--GQA-REX  -->
 **Rex: Reasoning-aware and grounded explanation** [CVPR 2022]<br>
-Shi Chen and Qi Zhao.  <br>Visual genome: Connecting language and vision using crowdsourced dense image annotations
+Shi Chen and Qi Zhao.  <br>
 [[Paper]](https://arxiv.org/pdf/2203.06107v1.pdf) [[dataset]](https://github.com/szzexpoi/rex)
 
 <!--FVQA  -->
@@ -394,7 +395,7 @@ Dong Huk Park, Lisa Anne Hendricks, Zeynep Akata, Anna Rohrbach, Bernt Schiele, 
 [[Paper]](https://ieeexplore.ieee.org/document/8579013)
 
 <!-- ScienceQA -->
-**Learn to explain: Multimodal reasoning via thought chains for science question answering** [Pan Lu, Swaroop Mishra, Tanglin Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, and Ashwin Kalyan 2022]<br>
+**Learn to explain: Multimodal reasoning via thought chains for science question answering** [NeurIPS 2022]<br>
 Pan Lu, Swaroop Mishra, Tanglin Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, and Ashwin Kalyan.  <br>
 [[Paper]](https://arxiv.org/pdf/2209.09513.pdf) [[dataset]](https://scienceqa.github.io/)
 
