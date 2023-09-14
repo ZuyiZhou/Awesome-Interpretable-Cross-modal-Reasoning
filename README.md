@@ -344,38 +344,38 @@ Shi Chen and Qi Zhao.  <br>
 <!--Visual Genome  -->
 **Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations** [IJCV 2017]<br>
 Ranjay Krishna, Yuke Zhu, Oliver Groth, Justin Johnson, Kenji Hata, Joshua Kravitz, Stephanie Chen, Yannis Kalantidis, Li-Jia Li, David A Shamma, et al.  <br>
-[[Paper]](https://arxiv.org/pdf/1602.07332.pdf)
+[[Paper]](https://arxiv.org/pdf/1602.07332.pdf) [[Dataset]](https://homes.cs.washington.edu/~ranjay/visualgenome/index.html)
 
 <!--GQA  -->
 **GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering** [CVPR 2019]<br>
 Drew A Hudson and Christopher D Manning.  <br>
-[[Paper]](https://arxiv.org/pdf/1902.09506.pdf)
+[[Paper]](https://arxiv.org/pdf/1902.09506.pdf) [[Dataset]](https://cs.stanford.edu/people/dorarad/gqa/about.html)
 
 <!--GQA-REX  -->
 **REX: Reasoning-Aware And Grounded Explanation** [CVPR 2022]<br>
 Shi Chen and Qi Zhao.  <br>
-[[Paper]](https://arxiv.org/pdf/2203.06107v1.pdf) [[dataset]](https://github.com/szzexpoi/rex)
+[[Paper]](https://arxiv.org/pdf/2203.06107v1.pdf) [[Dataset]](https://github.com/szzexpoi/rex)
 
 <!--FVQA  -->
 **FVQA: Fact-based Visual Question Answering** [T-PAMI 2017]<br>
-PengWang, QiWu, Chunhua Shen, Anthony Dick, and Anton Van Den Hengel.  <br>
-[[Paper]](https://arxiv.org/pdf/1606.05433.pdf)
+Peng Wang, Qi Wu, Chunhua Shen, Anthony Dick, and Anton Van Den Hengel.  <br>
+[[Paper]](https://arxiv.org/pdf/1606.05433.pdf) [[Dataset]](https://github.com/wangpengnorman/FVQA)
 
 <!--VQA-e  -->
 **VQA-E: Explaining, Elaborating, and Enhancing Your Answers for Visual Questions** [ECCV 18]<br>
 Qing Li, Qingyi Tao, Shafiq Joty, Jianfei Cai, and Jiebo Luo.  <br>
-[[Paper]](https://arxiv.org/pdf/1803.07464.pdf)
+[[Paper]](https://arxiv.org/pdf/1803.07464.pdf) [[Dataset]](https://github.com/liqing-ustc/VQA-E)
 
 <!--OK-VQA +VCR -->
 **From Recognition to Cognition: Visual Commonsense Reasoning** [CVPR 2019]<br>
 Rowan Zellers, Yonatan Bisk, Ali Farhadi, and Yejin Choi.  <br>
-[[Paper]](https://arxiv.org/pdf/1811.10830.pdf) [[dataset]](https://visualcommonsense.com/)
+[[Paper]](https://arxiv.org/pdf/1811.10830.pdf) [[Dataset]](https://visualcommonsense.com/)
 
 
 <!-- kvqa -->
 **KVQA: Knowledge-Aware Visual Question Answering** [AAAI 2019]<br>
 Sanket Shah, Anand Mishra, Naganand Yadati, and Partha Pratim Talukdar.  <br>
-[[Paper]](https://dl.acm.org/doi/10.1609/aaai.v33i01.33018876) [[dataset]](http://malllabiisc.github.io/resources/kvqa)
+[[Paper]](https://dl.acm.org/doi/10.1609/aaai.v33i01.33018876) [[Dataset]](http://malllabiisc.github.io/resources/kvqa)
 
 <!-- 2D-M -->
 **Program Guided Agent** [ICLR 2019]<br>
@@ -385,27 +385,27 @@ Shao-Hua Sun, Te-Lin Wu, and Joseph J Lim.  <br>
 <!-- Mocheg -->
 **End-to-End Multimodal Fact-Checking And Explanation Generation: A Challenging Dataset and Models** [SIGIR 2023]<br>
 Barry Menglong Yao, Aditya Shah, Lichao Sun, Jin-Hee Cho, and Lifu Huang.  <br>
-[[Paper]](https://arxiv.org/pdf/2205.12487.pdf) [[dataset]](https://github.com/VT-NLP/Mocheg)
+[[Paper]](https://arxiv.org/pdf/2205.12487.pdf) [[Dataset]](https://github.com/VT-NLP/Mocheg)
 
 <!-- ACT-X -->
 **Multimodal Explanations: Justifying Decisions and Pointing to the Evidence** [CVPR 2018]<br>
 Dong Huk Park, Lisa Anne Hendricks, Zeynep Akata, Anna Rohrbach, Bernt Schiele, Trevor Darrell, and Marcus Rohrbach.  <br>
-[[Paper]](https://ieeexplore.ieee.org/document/8579013)
+[[Paper]](https://ieeexplore.ieee.org/document/8579013) [[Dataset]](https://github.com/Seth-Park/MultimodalExplanations)
 
 <!-- ScienceQA -->
 **Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering** [NeurIPS 2022]<br>
 Pan Lu, Swaroop Mishra, Tanglin Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, and Ashwin Kalyan.  <br>
-[[Paper]](https://arxiv.org/pdf/2209.09513.pdf) [[dataset]](https://scienceqa.github.io/)
+[[Paper]](https://arxiv.org/pdf/2209.09513.pdf) [[Dataset]](https://scienceqa.github.io/)
 
 <!-- HatReD -->
 **Decoding the Underlying Meaning of Multimodal Hateful Memes** [arXiv 2023]<br>
 Ming Shan Hee, Wen-Haw Chong, and Roy Ka-Wei Lee.  <br>
-[[Paper]](https://arxiv.org/pdf/2305.17678.pdf) [[dataset]](https://github.com/Social-AI-Studio/HatRed)
+[[Paper]](https://arxiv.org/pdf/2305.17678.pdf) [[Dataset]](https://github.com/Social-AI-Studio/HatRed)
 
 <!-- WAX -->
 **WAX: A New Dataset for Word Association eXplanations** [ACL-IJCNLP 2023]<br>
 Chunhua Liu, Trevor Cohn, Simon De Deyne, and Lea Frermann.  <br>
-[[Paper]](https://aclanthology.org/2022.aacl-main.9.pdf) [[dataset]](https://github.com/ChunhuaLiu596/WAX)
+[[Paper]](https://aclanthology.org/2022.aacl-main.9.pdf) [[Dataset]](https://github.com/ChunhuaLiu596/WAX)
 
 
 ## <span id="head7"> *Contact Us* </span>
