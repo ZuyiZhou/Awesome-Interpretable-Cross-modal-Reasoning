@@ -16,18 +16,16 @@
 If you find our paper or this repo helpful for your research, please cite it as below. Thanks!
 
 ```bibtex
-@misc{xue2023survey,
-      title={A Survey on Interpretable Cross-modal Reasoning}, 
-      author={Dizhan Xue and Shengsheng Qian and Zuyi Zhou and Changsheng Xu},
-      year={2023},
-      eprint={2309.01955},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
+@article{xue2023survey,
+  title={A Survey on Interpretable Cross-modal Reasoning},
+  author={Xue, Dizhan and Qian, Shengsheng and Zhou, Zuyi and Xu, Changsheng},
+  journal={arXiv preprint arXiv:2309.01955},
+  year={2023}
 }
-
 ```
+
 ## <span id="head-content"> *Content* </span>
-* - [x] [1. Introduction](#headIntro)
+* - [x] [1. Taxonomy](#headIntro)
 
 * - [ ] [2. Methods for interpretable cross-modal reasoning](#headtax)
   * - [x] [2.1 Methods of Visual Explanation](#head-1)
@@ -44,11 +42,11 @@ If you find our paper or this repo helpful for your research, please cite it as 
 
 
 * [*Contact Us*](#head7)
-## <span id="headIntro"> *1. Description* </span>
+## <span id="headIntro"> *1. Taxonomy* </span>
 
-* ...
+* In this survey, we present a three-level taxonomy for inter-pretable cross-modal reasoning methods, as follows:
 
-* Papers, codes, and datasets for the text-to-image task are available here.
+![example1](figs/tax.png)
 
 
 ## <span id="headtax"> *2. Methods for interpretable cross-modal reasoning* </span>
