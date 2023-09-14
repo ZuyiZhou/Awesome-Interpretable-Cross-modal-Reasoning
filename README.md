@@ -123,7 +123,7 @@ Dizhan Xue, Shengsheng Qian, Quan Fang, and Changsheng Xu.  <br>
 
 ### <span id="head-2"> *2.2 Methods of Textual Explanation* </span>
 
-**More than an answer: Neural pivot network for visual qestion answering** [ACM MM 2017]<br>
+**More Than An Answer: Neural Pivot Network for Visual Qestion Answering** [ACM MM 2017]<br>
 Yiyi Zhou, Rongrong Ji, Jinsong Su, YongjianWu, and YunshengWu.  <br>
 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3123266.3123335)
 
@@ -132,11 +132,11 @@ Qing Li, Jianlong Fu, Dongfei Yu, Tao Mei, and Jiebo Luo.  <br>
 [[Paper]](https://arxiv.org/pdf/1801.09041.pdf)
 
 
-**Vqa-e: Explaining, elaborating, and enhancing your answers for visual questions** [ECCV 18]<br>
+**VQA-E: Explaining, Elaborating, and Enhancing Your Answers for Visual Questions** [ECCV 18]<br>
 Qing Li, Qingyi Tao, Shafiq Joty, Jianfei Cai, and Jiebo Luo.  <br>
 [[Paper]](https://arxiv.org/pdf/1803.07464.pdf)
 
-**Visual question answering as reading comprehension** [CVPR 2019]<br>
+**Visual Question Answering as Reading Comprehension** [CVPR 2019]<br>
 Hui Li, Peng Wang, Chunhua Shen, and Anton van den Hengel.  <br>
 [[Paper]](https://arxiv.org/pdf/1811.11903.pdf)
 
@@ -148,19 +148,19 @@ Ching-Shan Tseng, Ying-Jia Lin, and Hung-Yu Kao.  <br>
 Jiaxian Guo, Junnan Li, Dongxu Li, Anthony Meng Huat Tiong, Boyang Li, Dacheng Tao, and Steven Hoi.  <br>
 [[Paper]](https://arxiv.org/pdf/2212.10846.pdf) [[Code]](https://github.com/salesforce/LAVIS/tree/main/projects/img2llm-vqa)
 
-**Fvqa: Fact-based visual question answering** [T-PAMI 2017]<br>
+**FVQA: Fact-based Visual Question Answering** [T-PAMI 2017]<br>
 PengWang, QiWu, Chunhua Shen, Anthony Dick, and Anton Van Den Hengel.  <br>
 [[Paper]](https://arxiv.org/pdf/1606.05433.pdf)
 
-**Straight to the facts: Learning knowledge base retrieval for factual visual question answering.** [ECCV 2018]<br>
+**Straight to the Facts: Learning Knowledge Base Retrieval for Factual Visual Question Answering** [ECCV 2018]<br>
 Medhini Narasimhan and Alexander G Schwing.  <br>
 [[Paper]](https://arxiv.org/pdf/1809.01124.pdf)
 
-**Multi-level knowledge injecting for visual commonsense reasoning** [TCSVT 2020]<br>
+**Multi-Level Knowledge Injecting for Visual Commonsense Reasoning** [TCSVT 2020]<br>
 Zhang Wen and Yuxin Peng. 2020.  <br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/9083951)
 
-**Explicit cross-modal representation learning for visual commonsense reasoning** [TMM 2012]<br>
+**Explicit Cross-Modal Representation Learning For Visual Commonsense Reasoning** [TMM 2012]<br>
 Xi Zhang, Feifei Zhang, and Changsheng Xu.  <br>
 [[Paper]](https://ieeexplore.ieee.org/document/9465732)
 
@@ -168,15 +168,15 @@ Xi Zhang, Feifei Zhang, and Changsheng Xu.  <br>
 Ana Marasović, Chandra Bhagavatula, Jae sung Park, Ronan Le Bras, Noah A Smith, and Yejin Choi.  <br>
 [[Paper]](https://arxiv.org/pdf/2010.07526.pdf) [[Code]](https://github.com/allenai/visual-reasoning-rationalization)
 
-**Beyond vqa: Generating multi-word answers and rationales to visual questions** [CVPR 2021]<br>
+**Beyond VQA: Generating Multi-word Answers and Rationales to Visual Questions** [CVPR 2021]<br>
 Radhika Dua, Sai Srinivas Kancheti, and Vineeth N Balasubramanian. <br>
 [[Paper]](https://arxiv.org/pdf/2010.12852.pdf)
 
-**Learn to explain: Multimodal reasoning via thought chains for science question answering** [NeurIPS 2022]<br>
+**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering** [NeurIPS 2022]<br>
 Pan Lu, Swaroop Mishra, Tanglin Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, and Ashwin Kalyan.  <br>
 [[Paper]](https://arxiv.org/pdf/2209.09513.pdf) [[Code]](https://scienceqa.github.io/)
 
-**Multimodal chain-of-thought reasoning in language models.** [arXiv 2023]<br>
+**Multimodal Chain-of-Thought Reasoning in Language Models** [arXiv 2023]<br>
 Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis, and Alex Smola.  <br>
 [[Paper]](https://arxiv.org/pdf/2302.00923.pdf) [[Code]](https://github.com/amazon-science/mm-cot)
 
@@ -190,39 +190,39 @@ Jingyuan Qi, Zhiyang Xu, Ying Shen, Minqian Liu, Di Jin, Qifan Wang, and Lifu Hu
 
 ### <span id="head-3"> *2.3 Methods of Graph Explanation* </span>
 
-**Learning conditioned graph structures for interpretable visual question answering** [NeurIPS 2018]<br>
+**Learning Conditioned Graph Structures for Interpretable Visual Question Answering** [NeurIPS 2018]<br>
 Will Norcliffe-Brown, Stathis Vafeias, and Sarah Parisot.  <br>
 [[Paper]](https://arxiv.org/pdf/1806.07243.pdf) [[Code]](https://github.com/aimbrain/vqa-project)
 
-**Relation-aware graph attention network for visual question answering** [ICCV 2019]<br>
+**Relation-Aware Graph Attention Network for Visual Question Answering** [ICCV 2019]<br>
 Linjie Li, Zhe Gan, Yu Cheng, and Jingjing Liu. <br>
 [[Paper]](https://arxiv.org/pdf/1903.12314.pdf) [[Code]](https://github.com/linjieli222/VQA_ReGAT)
 
-**Visual semantic reasoning for image-text matching** [ICCV 2019]<br>
+**Visual Semantic Reasoning for Image-Text Matching** [ICCV 2019]<br>
 Kunpeng Li, Yulun Zhang, Kai Li, Yuanyuan Li, and Yun Fu.  <br>
 [[Paper]](https://arxiv.org/pdf/1909.02701.pdf) [[Code]](https://github.com/KunpengLi1994/VSRN)
 
-**Coarse-to-fine reasoning for visual question answering** [CVPR 2023]<br>
+**Coarse-to-Fine Reasoning for Visual Question Answering** [CVPR 2023]<br>
 Binh X Nguyen, Tuong Do, Huy Tran, Erman Tjiputra, Quang D Tran, and Anh Nguyen..  <br>
 [[Paper]](https://arxiv.org/pdf/2110.02526.pdf) [[Code]](https://github.com/aioz-ai/CFR_VQA)
 
-**Explainable high-order visual question reasoning: A new benchmark and knowledgerouted network** [arXiv 2019]<br>
+**Explainable High-Order Visual Question Reasoning: A New Benchmark and Knowledgerouted Network** [arXiv 2019]<br>
 Qingxing Cao, Bailin Li, Xiaodan Liang, and Liang Lin.  <br>
 [[Paper]](https://arxiv.org/pdf/1909.10128.pdf)
 
-**Query and attention augmentation for knowledge-based explainable reasoning** [CVPR 2022]<br>
+**Query and Attention Augmentation for Knowledge-Based Explainable Reasoning** [CVPR 2022]<br>
 Yifeng Zhang, Ming Jiang, and Qi Zhao.  <br>
 [[Paper]](https://ieeexplore.ieee.org/document/9879458) [[Code]](https://github.com/SuperJohnZhang/QAA)
 
-**Vqa with no questions-answers training** [CVPR 2020]<br>
+**VQA with No Questions-Answers Training** [CVPR 2020]<br>
 Ben-Zion Vatashsky and Shimon Ullman.  <br>
 [[Paper]](https://arxiv.org/abs/1811.08481.pdf) [[Code]](https://github.com/benyv/uncord)
 
-**Linguistically driven graph capsule network for visual question reasoning** [arXiv 2020]<br>
+**Linguistically Driven Graph Capsule Network for Visual Question Reasoning** [arXiv 2020]<br>
 Qingxing Cao, Xiaodan Liang, Keze Wang, and Liang Lin.  <br>
 [[Paper]](https://arxiv.org/pdf/2003.10065.pdf) [[Code]]
 
-**Learning cross-modal context graph for visual grounding** [AAAI 202o]<br>
+**Learning Cross-Modal Context Graph for Visual Grounding** [AAAI 2020]<br>
 Yongfei Liu, Bo Wan, Xiaodan Zhu, and Xuming He.  <br>
 [[Paper]](https://arxiv.org/pdf/1911.09042.pdf)  [[Code]](https://github.com/youngfly11/LCMCG-PyTorch)
 
@@ -230,29 +230,29 @@ Yongfei Liu, Bo Wan, Xiaodan Zhu, and Xuming He.  <br>
 Weike Jin, Zhou Zhao, Pengcheng Zhang, Jieming Zhu, Xiuqiang He, and Yueting Zhuang.  <br>
 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3404835.3462974)
 
-**Cross-modal graph matching network for image-text retrieval** [TOMM 2022]<br>
+**Cross-modal Graph Matching Network for Image-Text Retrieval** [TOMM 2022]<br>
 Yuhao Cheng, Xiaoguang Zhu, Jiuchao Qian, Fei Wen, and Peilin Liu.  <br>
 [[Paper]](https://dl.acm.org/doi/10.1145/3499027) [[Code]](https://github.com/cyh-sj/CGMN)
 
-**KBGN: Knowledge-bridge graph network for adaptive vision-text reasoning in visual dialogue** [ACM MM 2020]<br>
+**KBGN: Knowledge-Bridge Graph Network for Adaptive Vision-Text Reasoning in Visual Dialogue** [ACM MM 2020]<br>
 Xiaoze Jiang, Siyi Du, Zengchang Qin, Yajing Sun, and Jing Yu.  <br>
 [[Paper]](https://arxiv.org/pdf/2008.04858.pdf)
 
-**Mucko: multi-layer cross-modal knowledge reasoning for fact-based visual question answering** [IJCAI 2021]<br>
+**Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-Based Visual Question Answering** [IJCAI 2021]<br>
 Zihao Zhu, Jing Yu, Yujing Wang, Yajing Sun, Yue Hu, and Qi Wu.  <br>
 [[Paper]](https://arxiv.org/pdf/2006.09073.pdf)
 
-**Cross-modal representation learning and relation reasoning for bidirectional adaptive manipulation** [IJCAI 2022]<br>
+**Cross-modal Representation Learning and Relation Reasoning for Bidirectional Adaptive Manipulation** [IJCAI 2022]<br>
 Lei Li, Kai Fan, and Chun Yuan.  <br>
-[[Paper]](https://arxiv.org/pdf/2006.09073.pdf)
+[[Paper]](https://www.ijcai.org/proceedings/2022/447)
 
-**Mukea: Multimodal knowledge extraction and accumulation for knowledgebased visual question answering** [CVPR 2022]<br>
+**MuKEA: Multimodal Knowledge Extraction And Accumulation For Knowledgebased Visual Question Answering** [CVPR 2022]<br>
 Yang Ding, Jing Yu, Bang Liu, Yue Hu, Mingxin Cui, and Qi Wu.  <br>
-[[Paper]]https://arxiv.org/pdf/2203.09138.pdf) [[Code]](https://github.com/AndersonStra/MuKEA) 
+[[Paper]](https://arxiv.org/pdf/2203.09138.pdf) [[Code]](https://github.com/AndersonStra/MuKEA) 
 
 ### <span id="head-4"> *2.4 Methods of Symbol Explanation* </span>
 
-**Explicit reasoning over end-to-end neural architectures for visual question answering** [AAAI 2018]<br>
+**Explicit Reasoning over End-to-End Neural Architectures for Visual Question Answering** [AAAI 2018]<br>
 Somak Aditya, Yezhou Yang, and Chitta Baral.  <br>
 [[Paper]](https://arxiv.org/pdf/1803.08896.pdf)
 
@@ -264,7 +264,7 @@ NamRiko Suzuki, Hitomi Yanaka, Masashi Yoshikawa, Koji Mineshima, and Daisuke Be
 Ying Cheng, Ruize Wang, Jiashuo Yu, Rui-Wei Zhao, Yuejie Zhang, and Rui Feng.  <br>
 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475677)
 
-**SPACES: Explainable multimodal ai for active surveillance, diagnosis, and management of adverse childhood experiences** [Big Dat 2021]<br>
+**SPACES: Explainable Multimodal AI for Active Surveillance, Diagnosis, and Management of Adverse Childhood Experiences (ACEs)** [Big Dat 2021]<br>
 Nariman Ammar, Parya Zareie, Marion E Hare, Lisa Rogers, Sandra Madubuonwu, Jason Yaun, and Arash Shaban-Nejad.  <br>
 [[Paper]](https://ieeexplore.ieee.org/document/9671303)
 
@@ -272,7 +272,7 @@ Nariman Ammar, Parya Zareie, Marion E Hare, Lisa Rogers, Sandra Madubuonwu, Jaso
 Hui Liu, Wenya Wang, and Haoliang Li.  <br>
 [[Paper]](https://arxiv.org/pdf/2305.05964.pdf) [[Code]](https://github.com/less-and-less-bugs/LogicMD)
 
-**Integrating non-monotonic logical reasoning and inductive learning with deep learning for explainable visual question answering.** [FRAI 6 2019]<br>
+**Integrating Non-monotonic Logical Reasoning and Inductive Learning with Deep Learning for Explainable Visual Question Answering** [FRAI 6 2019]<br>
 Heather Riley and Mohan Sridharan.  <br>
 [[Paper]](https://www.frontiersin.org/articles/10.3389/frobt.2019.00125/full) [[Code]](https://github.com/hril230/masters_code) 
 
@@ -284,31 +284,31 @@ Tejas Gokhale, Pratyay Banerjee, Chitta Baral, and Yezhou Yang.  <br>
 Jacob Andreas, Marcus Rohrbach, Trevor Darrell, and Dan Klein.  <br>
 [[Paper]](https://arxiv.org/pdf/1511.02799.pdf)
 
-**Learning to reason: End-to-end module networks for visual question answering** [ICCV 2017]<br>
+**Learning to Reason: End-to-End Module Networks for Visual Question Answering** [ICCV 2017]<br>
 Ronghang Hu, Jacob Andreas, Marcus Rohrbach, Trevor Darrell, and Kate Saenko.  <br>
 [[Paper]](https://arxiv.org/pdf/1704.05526.pdf)
 
-**Neural-symbolic vqa: Disentangling reasoning from vision and language understanding** [NeurIPS 2018]<br>
+**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding** [NeurIPS 2018]<br>
 Kexin Yi, Jiajun Wu, Chuang Gan, Antonio Torralba, Pushmeet Kohli, and Josh Tenenbaum.  <br>
 [[Paper]](https://arxiv.org/pdf/1810.02338.pdf) [[Code]](http://nsvqa.csail.mit.edu) 
 
-**Explainable neural computation via stack neural module networks** [ECCV 2018]<br>
+**Explainable Neural Computation via Stack Neural Module Networks** [ECCV 2018]<br>
 Ronghang Hu, Jacob Andreas, Trevor Darrell, and Kate Saenko.  <br>
 [[Paper]](https://arxiv.org/pdf/1807.08556.pdf)
 
-**Ns3d: Neuro-symbolic grounding of 3d objects and relations** [CVPR 2023]<br>
+**NS3D: Neuro-Symbolic Grounding of 3d Objects and Relations** [CVPR 2023]<br>
 Joy Hsu, Jiayuan Mao, and Jiajun Wu.  <br>
 [[Paper]](https://arxiv.org/pdf/2303.13483.pdf) [[Code]](https://github.com/joyhsu0504/NS3D)
 
-**Meta module network for compositional visual reasoning** [WACV 2021]<br>
+**Meta Module Network for Compositional Visual Reasoning** [WACV 2021]<br>
 Wenhu Chen, Zhe Gan, Linjie Li, Yu Cheng, William Wang, and Jingjing Liu.  <br>
 [[Paper]](https://arxiv.org/pdf/1910.03230.pdf) [[Code]](https://github.com/wenhuchen/Meta-Module-Network)
 
-**Proto: Program-guided transformer for program-guided tasks** [NeurIPS 2021]<br>
+**ProTo: Program-Guided Transformer for Program-Guided Tasks** [NeurIPS 2021]<br>
 Zelin Zhao, Karan Samel, Binghong Chen, et al.  <br>
 [[Paper]](https://arxiv.org/pdf/2110.00804.pdf) [[Code]](https://github.com/sjtuytc/Neurips21-ProTo-Program-guided-Transformers-for-Program-guided-Tasks)
 
-**Visual programming: Compositional visual reasoning without training** [CVPR 2023]<br>
+**Visual Programming: Compositional Visual Reasoning without Training** [CVPR 2023]<br>
 Tanmay Gupta and Aniruddha Kembhavi.  <br>
 [[Paper]](https://arxiv.org/pdf/2211.11559.pdf) [[Code]](https://prior.allenai.org/projects/visprog)
 
@@ -318,15 +318,15 @@ Tanmay Gupta and Aniruddha Kembhavi.  <br>
 Yao Yao, Zuchao Li, and Hai Zhao. 2023.  <br>
 [[Paper]](https://arxiv.org/pdf/2305.16582.pdf) 
 
-**Explainable and explicit visual reasoning over scene graphs** [CVPR 2019]<br>
+**Explainable and Explicit Visual Reasoning over Scene Graphs** [CVPR 2019]<br>
 Jiaxin Shi, Hanwang Zhang, and Juanzi Li.  <br>
 [[Paper]](https://arxiv.org/pdf/1812.01855.pdf) [[Code]](https://github.com/shijx12/XNM-Net)
 
-**Multimodal explanations: Justifying decisions and pointing to the evidence** [CVPR 2018]<br>
+**Multimodal Explanations: Justifying Decisions and Pointing to the Evidence** [CVPR 2018]<br>
 Dong Huk Park, Lisa Anne Hendricks, Zeynep Akata, Anna Rohrbach, Bernt Schiele, Trevor Darrell, and Marcus Rohrbach.  <br>
 [[Paper]](https://ieeexplore.ieee.org/document/8579013)
 
-**From recognition to cognition: Visual commonsense reasoning** [CVPR 2019]<br>
+**From Recognition to Cognition: Visual Commonsense Reasoning** [CVPR 2019]<br>
 Rowan Zellers, Yonatan Bisk, Ali Farhadi, and Yejin Choi.  <br>
 [[Paper]](https://arxiv.org/pdf/1811.10830.pdf) [[Code]](https://visualcommonsense.com/)
 
@@ -335,65 +335,65 @@ Rowan Zellers, Yonatan Bisk, Ali Farhadi, and Yejin Choi.  <br>
 Jialin Wu and Raymond J. Mooney.  <br>
 [[Paper]](https://arxiv.org/pdf/1809.02805.pdf)
 
-**Rex: Reasoning-aware and grounded explanation** [CVPR 2022]<br>
+**REX: Reasoning-Aware and Grounded Explanation** [CVPR 2022]<br>
 Shi Chen and Qi Zhao.  <br>
 [[Paper]](https://arxiv.org/pdf/2203.06107v1.pdf) [[Code]](https://github.com/szzexpoi/rex)
 
 ## <span id="headda"> *3. Datasets* </span>
 
 <!--Visual Genome  -->
-**Visual genome: Connecting language and vision using crowdsourced dense image annotations** [IJCV 2017]<br>
+**Visual Genome: Connecting Language and Vision Using Crowdsourced Dense Image Annotations** [IJCV 2017]<br>
 Ranjay Krishna, Yuke Zhu, Oliver Groth, Justin Johnson, Kenji Hata, Joshua Kravitz, Stephanie Chen, Yannis Kalantidis, Li-Jia Li, David A Shamma, et al.  <br>
 [[Paper]](https://arxiv.org/pdf/1602.07332.pdf)
 
 <!--GQA  -->
-**Gqa: A new dataset for real-world visual reasoning and compositional question answering** [CVPR 2019]<br>
+**GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering** [CVPR 2019]<br>
 Drew A Hudson and Christopher D Manning.  <br>
 [[Paper]](https://arxiv.org/pdf/1902.09506.pdf)
 
 <!--GQA-REX  -->
-**Rex: Reasoning-aware and grounded explanation** [CVPR 2022]<br>
+**REX: Reasoning-Aware And Grounded Explanation** [CVPR 2022]<br>
 Shi Chen and Qi Zhao.  <br>
 [[Paper]](https://arxiv.org/pdf/2203.06107v1.pdf) [[dataset]](https://github.com/szzexpoi/rex)
 
 <!--FVQA  -->
-**Fvqa: Fact-based visual question answering** [T-PAMI 2017]<br>
+**FVQA: Fact-based Visual Question Answering** [T-PAMI 2017]<br>
 PengWang, QiWu, Chunhua Shen, Anthony Dick, and Anton Van Den Hengel.  <br>
 [[Paper]](https://arxiv.org/pdf/1606.05433.pdf)
 
 <!--VQA-e  -->
-**Vqa-e: Explaining, elaborating, and enhancing your answers for visual questions** [ECCV 18]<br>
+**VQA-E: Explaining, Elaborating, and Enhancing Your Answers for Visual Questions** [ECCV 18]<br>
 Qing Li, Qingyi Tao, Shafiq Joty, Jianfei Cai, and Jiebo Luo.  <br>
 [[Paper]](https://arxiv.org/pdf/1803.07464.pdf)
 
 <!--OK-VQA +VCR -->
-**From recognition to cognition: Visual commonsense reasoning** [CVPR 2019]<br>
+**From Recognition to Cognition: Visual Commonsense Reasoning** [CVPR 2019]<br>
 Rowan Zellers, Yonatan Bisk, Ali Farhadi, and Yejin Choi.  <br>
 [[Paper]](https://arxiv.org/pdf/1811.10830.pdf) [[dataset]](https://visualcommonsense.com/)
 
 
 <!-- kvqa -->
-**Kvqa: Knowledge-aware visual question answering** [AAAI 2019]<br>
+**KVQA: Knowledge-Aware Visual Question Answering** [AAAI 2019]<br>
 Sanket Shah, Anand Mishra, Naganand Yadati, and Partha Pratim Talukdar.  <br>
 [[Paper]](https://dl.acm.org/doi/10.1609/aaai.v33i01.33018876) [[dataset]](http://malllabiisc.github.io/resources/kvqa)
 
 <!-- 2D-M -->
-**Program guided agent** [ICLR 2019]<br>
+**Program Guided Agent** [ICLR 2019]<br>
 Shao-Hua Sun, Te-Lin Wu, and Joseph J Lim.  <br>
 [[Paper]](https://openreview.net/pdf?id=BkxUvnEYDH)
 
 <!-- Mocheg -->
-**End-to-end multimodal fact-checking and explanation generation: A challenging dataset and models** [SIGIR 2023]<br>
+**End-to-End Multimodal Fact-Checking And Explanation Generation: A Challenging Dataset and Models** [SIGIR 2023]<br>
 Barry Menglong Yao, Aditya Shah, Lichao Sun, Jin-Hee Cho, and Lifu Huang.  <br>
 [[Paper]](https://arxiv.org/pdf/2205.12487.pdf) [[dataset]](https://github.com/VT-NLP/Mocheg)
 
 <!-- ACT-X -->
-**Multimodal explanations: Justifying decisions and pointing to the evidence** [CVPR 2018]<br>
+**Multimodal Explanations: Justifying Decisions and Pointing to the Evidence** [CVPR 2018]<br>
 Dong Huk Park, Lisa Anne Hendricks, Zeynep Akata, Anna Rohrbach, Bernt Schiele, Trevor Darrell, and Marcus Rohrbach.  <br>
 [[Paper]](https://ieeexplore.ieee.org/document/8579013)
 
 <!-- ScienceQA -->
-**Learn to explain: Multimodal reasoning via thought chains for science question answering** [NeurIPS 2022]<br>
+**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering** [NeurIPS 2022]<br>
 Pan Lu, Swaroop Mishra, Tanglin Xia, Liang Qiu, Kai-Wei Chang, Song-Chun Zhu, Oyvind Tafjord, Peter Clark, and Ashwin Kalyan.  <br>
 [[Paper]](https://arxiv.org/pdf/2209.09513.pdf) [[dataset]](https://scienceqa.github.io/)
 
